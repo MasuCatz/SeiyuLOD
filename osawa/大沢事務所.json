@@ -1,0 +1,557 @@
+{
+    "青木友哉": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00001.html/../../mp3/00001_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00001.html/../../mp3/00001_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00001.html/../../mp3/00001_03.mp3"
+    },
+    "相澤雅人": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00002.html/../../mp3/00002_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00002.html/../../mp3/00002_02.mp3"
+    },
+    "朝コータロー": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00003.html/../../mp3/00003_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00003.html/../../mp3/00003_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00003.html/../../mp3/00003_03.mp3"
+    },
+    "飯島肇": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00005.html/../../mp3/00005_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00005.html/../../mp3/00005_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00005.html/../../mp3/00005_03.mp3"
+    },
+    "泉龍太": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00006.html/../../mp3/00006_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00006.html/../../mp3/00006_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00006.html/../../mp3/00006_03.mp3"
+    },
+    "伊藤英敏": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00008.html/../../mp3/00008_01.mp3"
+    },
+    "伊藤竜次": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00010.html/../../mp3/00010_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00010.html/../../mp3/00010_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00010.html/../../mp3/00010_03.mp3"
+    },
+    "犬飼淳治": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00011.html/../../mp3/00011_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00011.html/../../mp3/00011_02.mp3"
+    },
+    "戎原正彦": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00013.html/../../mp3/00013_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00013.html/../../mp3/00013_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00013.html/../../mp3/00013_03.mp3"
+    },
+    "大黒和広": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00014.html/../../mp3/00014_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00014.html/../../mp3/00014_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00014.html/../../mp3/00014_03.mp3"
+    },
+    "大田黒裕司": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00015.html/../../mp3/00015_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00015.html/../../mp3/00015_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00015.html/../../mp3/00015_03.mp3"
+    },
+    "大山鎬則": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00016.html/../../mp3/00016_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00016.html/../../mp3/00016_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00016.html/../../mp3/00016_03.mp3"
+    },
+    "押火淳": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00017.html/../../mp3/00017_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00017.html/../../mp3/00017_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00017.html/../../mp3/00017_03.mp3"
+    },
+    "斧アツシ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00018.html/../../mp3/00018_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00018.html/../../mp3/00018_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00018.html/../../mp3/00018_03.mp3"
+    },
+    "小山田昇": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00019.html/../../mp3/00019_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00019.html/../../mp3/00019_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00019.html/../../mp3/00019_03.mp3"
+    },
+    "加藤雅也": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00020.html/../../mp3/00020_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00020.html/../../mp3/00020_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00020.html/../../mp3/00020_03.mp3"
+    },
+    "加瀬康之": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00021.html/../../mp3/00021_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00021.html/../../mp3/00021_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00021.html/../../mp3/00021_03.mp3"
+    },
+    "神崎龍": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00023.html/../../mp3/00023_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00023.html/../../mp3/00023_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00023.html/../../mp3/00023_03.mp3"
+    },
+    "桐井大介": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00025.html/../../mp3/00025_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00025.html/../../mp3/00025_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00025.html/../../mp3/00025_03.mp3"
+    },
+    "草野とおる": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00027.html/../../mp3/00027_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00027.html/../../mp3/00027_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00027.html/../../mp3/00027_03.mp3"
+    },
+    "小杉十郎太": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00028.html/../../mp3/00028_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00028.html/../../mp3/00028_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00028.html/../../mp3/00028_03.mp3"
+    },
+    "後藤啓太": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00029.html/../../mp3/00029_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00029.html/../../mp3/00029_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00029.html/../../mp3/00029_03.mp3"
+    },
+    "小林研二": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00030.html/../../mp3/00030_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00030.html/../../mp3/00030_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00030.html/../../mp3/00030_03.mp3"
+    },
+    "ゴブリン": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00031.html/../../mp3/00031_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00031.html/../../mp3/00031_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00031.html/../../mp3/00031_03.mp3"
+    },
+    "斉藤弘勝": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00032.html/../../mp3/00032_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00032.html/../../mp3/00032_02.mp3"
+    },
+    "齋藤康弘": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00033.html/../../mp3/00033_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00033.html/../../mp3/00033_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00033.html/../../mp3/00033_03.mp3"
+    },
+    "酒元信行": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00034.html/../../mp3/00034_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00034.html/../../mp3/00034_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00034.html/../../mp3/00034_03.mp3"
+    },
+    "佐藤丈樹": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00035.html/../../mp3/00035_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00035.html/../../mp3/00035_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00035.html/../../mp3/00035_03.mp3"
+    },
+    "塩原啓太": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00036.html/../../mp3/00036_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00036.html/../../mp3/00036_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00036.html/../../mp3/00036_03.mp3"
+    },
+    "白鳥哲": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00037.html/../../mp3/00037_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00037.html/../../mp3/00037_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00037.html/../../mp3/00037_03.mp3"
+    },
+    "菅原正志": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00038.html/../../mp3/00038_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00038.html/../../mp3/00038_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00038.html/../../mp3/00038_03.mp3"
+    },
+    "鈴木英一郎": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00039.html/../../mp3/00039_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00039.html/../../mp3/00039_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00039.html/../../mp3/00039_03.mp3"
+    },
+    "鈴木伸": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00040.html/../../mp3/00040_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00040.html/../../mp3/00040_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00040.html/../../mp3/00040_03.mp3"
+    },
+    "高田裕司": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00041.html/../../mp3/00041_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00041.html/../../mp3/00041_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00041.html/../../mp3/00041_03.mp3"
+    },
+    "田代純一朗": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00043.html/../../mp3/00043_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00043.html/../../mp3/00043_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00043.html/../../mp3/00043_03.mp3"
+    },
+    "立木文彦": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00044.html/../../mp3/00044_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00044.html/../../mp3/00044_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00044.html/../../mp3/00044_03.mp3"
+    },
+    "田中総一郎": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00045.html/../../mp3/00045_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00045.html/../../mp3/00045_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00045.html/../../mp3/00045_03.mp3"
+    },
+    "田中佳人": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00046.html/../../mp3/00046_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00046.html/../../mp3/00046_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00046.html/../../mp3/00046_03.mp3"
+    },
+    "千葉進歩": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00048.html/../../mp3/00048_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00048.html/../../mp3/00048_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00048.html/../../mp3/00048_03.mp3"
+    },
+    "茶風林": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00049.html/../../mp3/00049_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00049.html/../../mp3/00049_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00049.html/../../mp3/00049_03.mp3"
+    },
+    "東地宏樹": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00051.html/../../mp3/00051_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00051.html/../../mp3/00051_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00051.html/../../mp3/00051_03.mp3"
+    },
+    "外﨑明彦": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00052.html/../../mp3/00052_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00052.html/../../mp3/00052_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00052.html/../../mp3/00052_03.mp3"
+    },
+    "中田譲治": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00055.html/../../mp3/00055_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00055.html/../../mp3/00055_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00055.html/../../mp3/00055_03.mp3"
+    },
+    "長友達也": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00056.html/../../mp3/00056_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00056.html/../../mp3/00056_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00056.html/../../mp3/00056_03.mp3"
+    },
+    "中野慎太郎": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00057.html/../../mp3/00057_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00057.html/../../mp3/00057_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00057.html/../../mp3/00057_03.mp3"
+    },
+    "奈佐健臣": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00059.html/../../mp3/00059_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00059.html/../../mp3/00059_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00059.html/../../mp3/00059_03.mp3"
+    },
+    "西凜太朗": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00060.html/../../mp3/00060_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00060.html/../../mp3/00060_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00060.html/../../mp3/00060_03.mp3"
+    },
+    "羽賀聖": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00062.html/../../mp3/00062_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00062.html/../../mp3/00062_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00062.html/../../mp3/00062_03.mp3"
+    },
+    "長谷川歩": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00064.html/../../mp3/00064_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00064.html/../../mp3/00064_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00064.html/../../mp3/00064_03.mp3"
+    },
+    "花田光": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00066.html/../../mp3/00066_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00066.html/../../mp3/00066_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00066.html/../../mp3/00066_03.mp3"
+    },
+    "林田尚親": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00067.html/../../mp3/00067_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00067.html/../../mp3/00067_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00067.html/../../mp3/00067_03.mp3"
+    },
+    "藤崎卓也": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00069.html/../../mp3/00069_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00069.html/../../mp3/00069_02.mp3"
+    },
+    "藤野直彦": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00070.html/../../mp3/00070_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00070.html/../../mp3/00070_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00070.html/../../mp3/00070_03.mp3"
+    },
+    "藤本京": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00071.html/../../mp3/00071_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00071.html/../../mp3/00071_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00071.html/../../mp3/00071_03.mp3"
+    },
+    "古野顕一": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00072.html/../../mp3/00072_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00072.html/../../mp3/00072_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00072.html/../../mp3/00072_03.mp3"
+    },
+    "ブラボー小松": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00073.html/../../mp3/00073_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00073.html/../../mp3/00073_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00073.html/../../mp3/00073_03.mp3"
+    },
+    "堀川仁": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00074.html/../../mp3/00074_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00074.html/../../mp3/00074_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00074.html/../../mp3/00074_03.mp3"
+    },
+    "マーク・大喜多": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00075.html/../../mp3/00075_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00075.html/../../mp3/00075_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00075.html/../../mp3/00075_03.mp3"
+    },
+    "松尾まつお": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00076.html/../../mp3/00076_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00076.html/../../mp3/00076_02.mp3"
+    },
+    "女鹿伸樹": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00080.html/../../mp3/00080_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00080.html/../../mp3/00080_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00080.html/../../mp3/00080_03.mp3"
+    },
+    "元村悠": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00081.html/../../mp3/00081_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00081.html/../../mp3/00081_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00081.html/../../mp3/00081_03.mp3"
+    },
+    "吉原丈二": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00084.html/../../mp3/00084_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00084.html/../../mp3/00084_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00084.html/../../mp3/00084_03.mp3"
+    },
+    "若林正": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00085.html/../../mp3/00085_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00085.html/../../mp3/00085_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00085.html/../../mp3/00085_03.mp3"
+    },
+    "ＡＫＩＫＯ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00087.html/../../mp3/00087_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00087.html/../../mp3/00087_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00087.html/../../mp3/00087_03.mp3"
+    },
+    "青木菜な": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00088.html/../../mp3/00088_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00088.html/../../mp3/00088_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00088.html/../../mp3/00088_03.mp3"
+    },
+    "逢川亮子": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00089.html/../../mp3/00089_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00089.html/../../mp3/00089_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00089.html/../../mp3/00089_03.mp3"
+    },
+    "明石香織": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00090.html/../../mp3/00090_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00090.html/../../mp3/00090_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00090.html/../../mp3/00090_03.mp3"
+    },
+    "浅野ひかり": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00091.html/../../mp3/00091_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00091.html/../../mp3/00091_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00091.html/../../mp3/00091_03.mp3"
+    },
+    "浅野まゆみ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00092.html/../../mp3/00092_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00092.html/../../mp3/00092_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00092.html/../../mp3/00092_03.mp3"
+    },
+    "有馬ゆみこ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00094.html/../../mp3/00094_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00094.html/../../mp3/00094_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00094.html/../../mp3/00094_03.mp3"
+    },
+    "井口裕香": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00096.html/../../mp3/00096_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00096.html/../../mp3/00096_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00096.html/../../mp3/00096_03.mp3"
+    },
+    "池谷和美": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00097.html/../../mp3/00097_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00097.html/../../mp3/00097_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00097.html/../../mp3/00097_03.mp3"
+    },
+    "池田葵": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00098.html/../../mp3/00098_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00098.html/../../mp3/00098_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00098.html/../../mp3/00098_03.mp3"
+    },
+    "一木美名子": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00099.html/../../mp3/00099_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00099.html/../../mp3/00099_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00099.html/../../mp3/00099_03.mp3"
+    },
+    "伊藤真理": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00100.html/../../mp3/00100_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00100.html/../../mp3/00100_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00100.html/../../mp3/00100_03.mp3"
+    },
+    "伊藤美紀": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00101.html/../../mp3/00101_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00101.html/../../mp3/00101_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00101.html/../../mp3/00101_03.mp3"
+    },
+    "枝村みどり": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00102.html/../../mp3/00102_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00102.html/../../mp3/00102_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00102.html/../../mp3/00102_03.mp3"
+    },
+    "大津田裕美": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00103.html/../../mp3/00103_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00103.html/../../mp3/00103_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00103.html/../../mp3/00103_03.mp3"
+    },
+    "大綱めぐみ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00104.html/../../mp3/00104_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00104.html/../../mp3/00104_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00104.html/../../mp3/00104_03.mp3"
+    },
+    "岡野佐多子": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00106.html/../../mp3/00106_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00106.html/../../mp3/00106_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00106.html/../../mp3/00106_03.mp3"
+    },
+    "奥山弥生": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00107.html/../../mp3/00107_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00107.html/../../mp3/00107_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00107.html/../../mp3/00107_03.mp3"
+    },
+    "かとうけいこ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00108.html/../../mp3/00108_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00108.html/../../mp3/00108_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00108.html/../../mp3/00108_03.mp3"
+    },
+    "川喜多美子": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00109.html/../../mp3/00109_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00109.html/../../mp3/00109_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00109.html/../../mp3/00109_03.mp3"
+    },
+    "川崎ゆかり": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00110.html/../../mp3/00110_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00110.html/../../mp3/00110_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00110.html/../../mp3/00110_03.mp3"
+    },
+    "川澄綾子": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00111.html/../../mp3/00111_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00111.html/../../mp3/00111_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00111.html/../../mp3/00111_03.mp3"
+    },
+    "樹又ひろこ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00112.html/../../mp3/00112_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00112.html/../../mp3/00112_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00112.html/../../mp3/00112_03.mp3"
+    },
+    "久野美咲": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00114.html/../../mp3/00114_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00114.html/../../mp3/00114_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00114.html/../../mp3/00114_03.mp3"
+    },
+    "熊谷聖香": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00115.html/../../mp3/00115_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00115.html/../../mp3/00115_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00115.html/../../mp3/00115_03.mp3"
+    },
+    "黒崎彩子": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00116.html/../../mp3/00116_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00116.html/../../mp3/00116_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00116.html/../../mp3/00116_03.mp3"
+    },
+    "阪口あや": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00117.html/../../mp3/00117_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00117.html/../../mp3/00117_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00117.html/../../mp3/00117_03.mp3"
+    },
+    "佐藤律子": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00118.html/../../mp3/00118_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00118.html/../../mp3/00118_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00118.html/../../mp3/00118_03.mp3"
+    },
+    "鈴木ゆうこ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00119.html/../../mp3/00119_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00119.html/../../mp3/00119_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00119.html/../../mp3/00119_03.mp3"
+    },
+    "鈴木淑恵": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00120.html/../../mp3/00120_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00120.html/../../mp3/00120_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00120.html/../../mp3/00120_03.mp3"
+    },
+    "鈴木好美": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00121.html/../../mp3/00121_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00121.html/../../mp3/00121_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00121.html/../../mp3/00121_03.mp3"
+    },
+    "せきぐちきみこ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00123.html/../../mp3/00123_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00123.html/../../mp3/00123_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00123.html/../../mp3/00123_03.mp3"
+    },
+    "武山佳世": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00125.html/../../mp3/00125_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00125.html/../../mp3/00125_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00125.html/../../mp3/00125_03.mp3"
+    },
+    "種田梨沙": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00126.html/../../mp3/00126_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00126.html/../../mp3/00126_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00126.html/../../mp3/00126_03.mp3"
+    },
+    "中尾衣里": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00127.html/../../mp3/00127_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00127.html/../../mp3/00127_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00127.html/../../mp3/00127_03.mp3"
+    },
+    "永山あけみ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00129.html/../../mp3/00129_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00129.html/../../mp3/00129_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00129.html/../../mp3/00129_03.mp3"
+    },
+    "能登麻美子": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00130.html/../../mp3/00130_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00130.html/../../mp3/00130_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00130.html/../../mp3/00130_03.mp3"
+    },
+    "日笠山亜美": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00132.html/../../mp3/00132_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00132.html/../../mp3/00132_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00132.html/../../mp3/00132_03.mp3"
+    },
+    "日高里菜": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00133.html/../../mp3/00133_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00133.html/../../mp3/00133_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00133.html/../../mp3/00133_03.mp3"
+    },
+    "ＶｉｅＶｉｅ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00134.html/../../mp3/00134_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00134.html/../../mp3/00134_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00134.html/../../mp3/00134_03.mp3"
+    },
+    "本田あつ子": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00136.html/../../mp3/00136_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00136.html/../../mp3/00136_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00136.html/../../mp3/00136_03.mp3"
+    },
+    "本田貴子": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00137.html/../../mp3/00137_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00137.html/../../mp3/00137_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00137.html/../../mp3/00137_03.mp3"
+    },
+    "丸山みづ紀": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00140.html/../../mp3/00140_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00140.html/../../mp3/00140_02.mp3"
+    },
+    "光野貴子": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00142.html/../../mp3/00142_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00142.html/../../mp3/00142_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00142.html/../../mp3/00142_03.mp3"
+    },
+    "向殿あさみ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00143.html/../../mp3/00143_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00143.html/../../mp3/00143_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00143.html/../../mp3/00143_03.mp3"
+    },
+    "百瀬圭": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00144.html/../../mp3/00144_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00144.html/../../mp3/00144_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00144.html/../../mp3/00144_03.mp3"
+    },
+    "安田あきえ": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00145.html/../../mp3/00145_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00145.html/../../mp3/00145_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00145.html/../../mp3/00145_03.mp3"
+    },
+    "山川牧": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00146.html/../../mp3/00146_01.mp3"
+    },
+    "山下百合恵": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00147.html/../../mp3/00147_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00147.html/../../mp3/00147_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00147.html/../../mp3/00147_03.mp3"
+    },
+    "渡辺明乃": {
+        "音声1": "http://osawa-inc.co.jp/blocks/index/talent00148.html/../../mp3/00148_01.mp3",
+        "音声2": "http://osawa-inc.co.jp/blocks/index/talent00148.html/../../mp3/00148_02.mp3",
+        "音声3": "http://osawa-inc.co.jp/blocks/index/talent00148.html/../../mp3/00148_03.mp3"
+    }
+}
