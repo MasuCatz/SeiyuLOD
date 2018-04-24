@@ -1,22 +1,26 @@
-# º—Dî•ñŽæ“¾ƒvƒƒOƒ‰ƒ€(‘å‘òŽ––±Š)
+# å£°å„ªæƒ…å ±å–å¾—ãƒ—ãƒ­ã‚°ãƒ©ãƒ (å¤§æ²¢äº‹å‹™æ‰€)
 
 =====
 
-## ŠT—v
-‘å‘òŽ––±Š‚ÉŠ‘®‚·‚éº—D‚Ì
-ƒTƒ“ƒvƒ‹ƒ{ƒCƒX‚ðŽæ“¾‚µjsonŒ`Ž®‚Åo—Í‚·‚éƒvƒƒOƒ‰ƒ€
+## æ¦‚è¦
+å¤§æ²¢äº‹å‹™æ‰€ã«æ‰€å±žã™ã‚‹å£°å„ªã®
 
-## à–¾
-Œ¾ŒêFPython3
-Žg—pƒ‰ƒCƒuƒ‰ƒŠFBeautifulSoup4
+ã‚µãƒ³ãƒ—ãƒ«ãƒœã‚¤ã‚¹ã‚’å–å¾—ã—jsonå½¢å¼ã§å‡ºåŠ›ã™ã‚‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
 
-Eosawa.py
-EosawaVA.txt
+## èª¬æ˜Ž
+è¨€èªžï¼šPython3
 
-ˆÈã2‚Â‚Ìƒtƒ@ƒCƒ‹‚ð“¯‚¶ƒfƒBƒŒƒNƒgƒŠ‚É”z’uB
-osawa.py‚ðŽÀs‚Å"osawaVA.json"‚Æ‚¢‚¤ƒtƒ@ƒCƒ‹‚ªo—Í‚³‚ê‚éB
+ä½¿ç”¨ãƒ©ã‚¤ãƒ–ãƒ©ãƒªï¼šBeautifulSoup4
 
-## ƒ‰ƒCƒZƒ“ƒX
+ãƒ»osawa.py
+
+ãƒ»osawaVA.txt
+
+ä»¥ä¸Š2ã¤ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’åŒã˜ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«é…ç½®ã€‚
+
+osawa.pyã‚’å®Ÿè¡Œã§"osawaVA.json"ã¨ã„ã†ãƒ•ã‚¡ã‚¤ãƒ«ãŒå‡ºåŠ›ã•ã‚Œã‚‹ã€‚
+
+## ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
 MIT
 
 ## Author
