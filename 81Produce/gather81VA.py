@@ -1,6 +1,7 @@
 #coding:utf-8
 
 import requests
+import time
 from bs4 import BeautifulSoup
 
 def inputURL(url):
@@ -24,3 +25,5 @@ if __name__ == '__main__':
             
             #確認
             print(VAuri.a["href"])
+
+            time.sleep(3)
