@@ -22,5 +22,4 @@
 MIT
 
 ## Author
-
 Maskapara

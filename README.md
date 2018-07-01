@@ -19,4 +19,4 @@
 MIT
 
 ## Author
-MasuCatz
+Maskapara
